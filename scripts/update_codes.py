@@ -1,7 +1,7 @@
 ﻿import json
 import re
 from datetime import datetime, timezone
-from html import unescape
+from html.parser import HTMLParser
 from urllib.request import Request, urlopen
 
 CODES_FILE = "codes.json"
@@ -10,28 +10,138 @@ SOURCES = [
     {
         "name": "Pocket Tactics",
         "url": "https://www.pockettactics.com/fc-mobile/codes",
-        "active_start": "Here are the active FC Mobile codes:",
-        "active_end": "Expired codes:",
-        "expired_start": "Expired codes:",
-        "expired_end": "There you have it",
     },
     {
         "name": "Radio Times",
         "url": "https://www.radiotimes.com/technology/gaming/fc-mobile-redeem-codes/",
-        "active_start": "Latest codes",
-        "active_end": "Expired codes",
-        "expired_start": "Expired codes",
-        "expired_end": "How to redeem codes in FC Mobile explained",
     },
     {
         "name": "GamesRadar+",
         "url": "https://www.gamesradar.com/games/ea-sports-fc/fc-mobile-codes/",
-        "active_start": "The following FC Mobile redemption codes are active for rewards:",
-        "active_end": "How to redeem codes",
-        "expired_start": "Expired FC Mobile codes",
-        "expired_end": "There are plenty of expired FC Mobile codes",
     },
 ]
+
+
+class CodeListParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.pending_context = None
+        self.list_context = None
+        self.list_depth = 0
+        self.current_li = None
+        self.current_li_parts = []
+
+        self.current_block = None
+        self.current_block_parts = []
+
+        self.active_codes = []
+        self.expired_codes = []
+
+    def handle_starttag(self, tag, attrs):
+        tag = tag.lower()
+
+        if tag in {"p", "h1", "h2", "h3", "h4", "h5", "h6"}:
+            if self.current_block is None:
+                self.current_block = tag
+                self.current_block_parts = []
+
+        if tag in {"ul", "ol"}:
+            if self.list_depth == 0:
+                self.list_context = self.pending_context
+                self.pending_context = None
+            self.list_depth += 1
+
+        if tag == "li" and self.list_depth == 1:
+            self.current_li = True
+            self.current_li_parts = []
+
+    def handle_endtag(self, tag):
+        tag = tag.lower()
+
+        if tag == "li" and self.list_depth == 1 and self.current_li:
+            text = self.clean_text(" ".join(self.current_li_parts))
+            item = self.parse_code(text)
+
+            if item and self.list_context == "active":
+                self.active_codes.append(item)
+
+            if item and self.list_context == "expired":
+                self.expired_codes.append(item)
+
+            self.current_li = None
+            self.current_li_parts = []
+
+        if tag in {"ul", "ol"} and self.list_depth > 0:
+            self.list_depth -= 1
+
+            if self.list_depth == 0:
+                self.list_context = None
+
+        if (
+            self.current_block == tag
+            and tag in {"p", "h1", "h2", "h3", "h4", "h5", "h6"}
+        ):
+            text = self.clean_text(" ".join(self.current_block_parts))
+            self.update_context(text)
+
+            self.current_block = None
+            self.current_block_parts = []
+
+    def handle_data(self, data):
+        if self.current_li and self.list_depth == 1:
+            self.current_li_parts.append(data)
+
+        if self.current_block is not None:
+            self.current_block_parts.append(data)
+
+    def update_context(self, text):
+        lower = text.lower()
+
+        if (
+            "following fc mobile redemption codes are active" in lower
+            or "here are the active fc mobile codes" in lower
+            or "latest codes" in lower
+        ):
+            self.pending_context = "active"
+            return
+
+        if (
+            "expired fc mobile codes" in lower
+            or lower.strip() == "expired codes"
+            or lower.strip().startswith("expired codes:")
+        ):
+            self.pending_context = "expired"
+
+    @staticmethod
+    def clean_text(text):
+        text = re.sub(r"\s+", " ", text)
+        return text.strip()
+
+    @staticmethod
+    def parse_code(text):
+        text = text.strip()
+
+        match = re.match(
+            r"^([A-Z0-9][A-Z0-9_-]{5,39})"
+            r"(?:\s*\(NEW!\))?"
+            r"(?:\s*[-–—:]\s*(.*))?$",
+            text,
+            re.IGNORECASE,
+        )
+
+        if not match:
+            return None
+
+        code = match.group(1).strip().upper()
+        reward = (match.group(2) or "").strip()
+
+        if len(code) < 6:
+            return None
+
+        return {
+            "code": code,
+            "reward": reward,
+        }
 
 
 def load_codes():
@@ -48,7 +158,7 @@ def save_codes(codes):
         json.dump(codes, file, ensure_ascii=False, indent=2)
 
 
-def fetch_text(url):
+def fetch_html(url):
     request = Request(
         url,
         headers={
@@ -61,82 +171,30 @@ def fetch_text(url):
     )
 
     with urlopen(request, timeout=30) as response:
-        raw = response.read().decode("utf-8", errors="ignore")
-
-    raw = re.sub(
-        r"(?is)<(script|style|noscript).*?>.*?</\1>",
-        " ",
-        raw,
-    )
-
-    raw = re.sub(r"(?i)<br\s*/?>", "\n", raw)
-    raw = re.sub(r"(?i)</(p|li|div|h1|h2|h3|h4|section)>", "\n", raw)
-    raw = re.sub(r"<[^>]+>", " ", raw)
-
-    text = unescape(raw)
-    text = re.sub(r"\r", "", text)
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n[ \t]+", "\n", text)
-
-    return text
+        return response.read().decode("utf-8", errors="ignore")
 
 
-def extract_section(text, start_marker, end_marker):
-    start = text.lower().find(start_marker.lower())
+def scan_source(source):
+    html = fetch_html(source["url"])
 
-    if start == -1:
-        return ""
+    parser = CodeListParser()
+    parser.feed(html)
 
-    start += len(start_marker)
+    active = {}
+    expired = {}
 
-    end = text.lower().find(end_marker.lower(), start)
+    for item in parser.active_codes:
+        active[item["code"]] = item
 
-    if end == -1:
-        end = len(text)
+    for item in parser.expired_codes:
+        expired[item["code"]] = item
 
-    return text[start:end]
-
-
-def extract_codes(section):
-    results = []
-
-    for raw_line in section.splitlines():
-        line = re.sub(r"\s+", " ", raw_line).strip()
-
-        if not line:
-            continue
-
-        match = re.search(
-            r"\b([A-Z0-9][A-Z0-9_-]{5,39})\b\s*[-–—:]\s*(.*)$",
-            line,
-            re.IGNORECASE,
-        )
-
-        if not match:
-            continue
-
-        code = match.group(1).strip().upper()
-        reward = match.group(2).strip()
-
-        if not re.fullmatch(r"[A-Z0-9][A-Z0-9_-]{5,39}", code):
-            continue
-
-        results.append(
-            {
-                "code": code,
-                "reward": reward,
-            }
-        )
-
-    unique = {}
-    for item in results:
-        unique[item["code"]] = item
-
-    return list(unique.values())
+    return list(active.values()), list(expired.values())
 
 
 def main():
     existing = load_codes()
+
     existing_by_code = {
         item.get("code", "").strip().upper(): item
         for item in existing
@@ -153,23 +211,9 @@ def main():
         print(f"Scanning: {source['name']}")
 
         try:
-            text = fetch_text(source["url"])
+            active_codes, expired_codes = scan_source(source)
+
             successful_sources.append(source["name"])
-
-            active_section = extract_section(
-                text,
-                source["active_start"],
-                source["active_end"],
-            )
-
-            expired_section = extract_section(
-                text,
-                source["expired_start"],
-                source["expired_end"],
-            )
-
-            active_codes = extract_codes(active_section)
-            expired_codes = extract_codes(expired_section)
 
             for item in active_codes:
                 code = item["code"]
@@ -186,7 +230,16 @@ def main():
 
             for item in expired_codes:
                 code = item["code"]
-                found_expired.setdefault(code, []).append(source["name"])
+
+                if code not in found_expired:
+                    found_expired[code] = {
+                        "code": code,
+                        "reward": item["reward"],
+                        "sources": [],
+                    }
+
+                if source["name"] not in found_expired[code]["sources"]:
+                    found_expired[code]["sources"].append(source["name"])
 
             print(
                 f"  Active: {len(active_codes)} | "
@@ -197,85 +250,94 @@ def main():
             print(f"  Source failed: {error}")
 
     if not successful_sources:
-        print("No sources could be scanned. Keeping existing data.")
+        print("No sources succeeded. Existing data kept.")
         return
-
-    changed = False
 
     for code, item in found_active.items():
         record = existing_by_code.get(code)
 
-        sources_text = ", ".join(item["sources"])
+        if record is None:
+            record = {
+                "code": code,
+                "reward": item["reward"],
+                "source": "",
+                "sources": [],
+                "foundAt": scan_time,
+                "lastSeenAt": scan_time,
+                "status": "active",
+            }
+            existing_by_code[code] = record
+
+        record["reward"] = item["reward"]
+        record["source"] = ", ".join(item["sources"])
+        record["sources"] = item["sources"]
+        record["lastSeenAt"] = scan_time
+        record["status"] = "active"
+
+        record.pop("expiredAt", None)
+        record.pop("expiredSources", None)
+
+    for code, item in found_expired.items():
+        record = existing_by_code.get(code)
 
         if record is None:
             existing_by_code[code] = {
                 "code": code,
                 "reward": item["reward"],
-                "source": sources_text,
+                "source": ", ".join(item["sources"]),
                 "sources": item["sources"],
                 "foundAt": scan_time,
-                "lastSeenAt": scan_time,
-                "status": "active",
+                "status": "expired",
+                "expiredAt": scan_time,
+                "expiredSources": item["sources"],
             }
-            changed = True
-            print(f"NEW CODE: {code}")
-            continue
-
-        previous_status = record.get("status", "active")
-
-        record["reward"] = item["reward"]
-        record["source"] = sources_text
-        record["sources"] = item["sources"]
-
-        if previous_status != "active":
-            record["status"] = "active"
-            record["lastSeenAt"] = scan_time
-            changed = True
-            print(f"REACTIVATED: {code}")
-
-    for code, source_names in found_expired.items():
-        record = existing_by_code.get(code)
-
-        if record is None:
-            continue
-
-        if code in found_active:
-            continue
-
-        if record.get("status") != "expired":
-            record["status"] = "expired"
-            record["expiredAt"] = scan_time
-            record["expiredSources"] = source_names
-            changed = True
-            print(f"EXPIRED: {code}")
+        else:
+            if code not in found_active:
+                record["reward"] = item["reward"]
+                record["source"] = ", ".join(item["sources"])
+                record["sources"] = item["sources"]
+                record["status"] = "expired"
+                record["expiredAt"] = record.get("expiredAt", scan_time)
+                record["expiredSources"] = item["sources"]
 
     result = list(existing_by_code.values())
 
-    result.sort(
-        key=lambda item: (
-            0 if item.get("status") == "active" else 1,
-            item.get("foundAt", ""),
-        ),
-        reverse=False,
+    active = [
+        item for item in result
+        if item.get("status") == "active"
+    ]
+
+    expired = [
+        item for item in result
+        if item.get("status") == "expired"
+    ]
+
+    active.sort(
+        key=lambda item: item.get("foundAt", ""),
+        reverse=True,
     )
 
-    active = [item for item in result if item.get("status") == "active"]
-    expired = [item for item in result if item.get("status") != "active"]
-
-    active.sort(key=lambda item: item.get("foundAt", ""), reverse=True)
-    expired.sort(key=lambda item: item.get("foundAt", ""), reverse=True)
+    expired.sort(
+        key=lambda item: item.get("foundAt", ""),
+        reverse=True,
+    )
 
     result = active + expired
 
-    if changed:
-        save_codes(result)
-        print(f"Saved {len(result)} codes.")
-    else:
-        print("No data changes.")
+    save_codes(result)
 
+    print()
     print(f"Successful sources: {len(successful_sources)}/{len(SOURCES)}")
     print(f"Active codes: {len(active)}")
     print(f"History codes: {len(result)}")
+
+    print()
+    print("ACTIVE CODES:")
+    for item in active:
+        print(
+            f"  {item['code']} -> "
+            f"{item.get('reward', '')}"
+        )
 
 
 if __name__ == "__main__":
