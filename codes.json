@@ -1,1 +1,1613 @@
-[]
+[
+  {
+    "code": "ZLATANWORLDPREMIERE",
+    "reward": "a Zlatan Ibrahimovic card",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "lastSeenAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "active"
+  },
+  {
+    "code": "ONEMOREDRAFT",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "BOMBAGOL",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "AUFGEHTS",
+    "reward": "",
+    "source": "Pocket Tactics, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "NUMEROUNO",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "CLEANSLATE",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "POWEROFFOOTBALL",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "MIDSEASONFINALDAY",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "FCPROMOBILE",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "CHAMPIONSGO",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "MIDSEASONGOODPLAY",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "MIDSEASONKICKOFF",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "CHAMPSWEEKEND",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "ALLSTARSLIVE",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "ALLSTARSCOMPETE",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "GOLDENERA",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FIESTAMX",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "CHASETHEGLORY",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "LAFINAL",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "NATIONALPRIDE",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "HIGHERSTAKES",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "DOMINOSFC",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "PRESSUREISON",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "STARSANDSTRIPES",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "LASTROUND",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "WEEKENDHYPE",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "BIGGAMEDAY",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "DEBUTGIFT",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FIRSTWHISTLE",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FCMTIMNASGARUDA",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "THEWORLDSGAME",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "WEEKENDBOOST",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "MLSCOMEKICKIT",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "SHARDSAREBACK",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "MLSKICKOFF",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "TOTSISBACK",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "HAPPYAPRILFOOLS",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "EIDMUBARAK26",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "CREATORKICKOFF",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "CHASETHEDREAM",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FCMOBILENGABUBURIT",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "CAPPEDANTWAN",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "RAMADANKAREEM26",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "LUCKYSTALLION",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "CARNAVALGINGA",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "UTOTYTRADEIN",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "ITSTHETOTYS",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FELICESREYES",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "SEACREATOR",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "FESTIVEGIFTJOIASFESTIVAS",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "MOSTWONDERFULTIME",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FCMELITE",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "MLSCUP25",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "CYBERWEEK25",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "LIBERTADORESFCM25",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "BLACKFRIDAY25",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "KKJEDEMOCRATA",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "GLORIOUSCODE",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FCMS2025KIT",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "FCPROFESTHCM25",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "SPOOKYGIFT",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "PARALLELPITCHES",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "BRIGHTLIGHTS",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "CAMPEAOBRASILEIRO25",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "CADEAUDOR",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FCM26NABGS",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "MIDSEASONBANGKOK",
+    "reward": "",
+    "source": "Radio Times, GamesRadar+",
+    "sources": [
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "ALLORNOTHING",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "KNOCKOUTTIME",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "2026GEMS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "JOIASFESTIVAS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "SOCCERSATURDAY",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "26ISLIVE",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "SONISYOURS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "BECKHAMISYOURS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FCPROSHANGHAI25",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "BUNDLEBOOST",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "KROOSISYOURS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "SKIPPER",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "TOUCHGRASS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FCBAYERNVSPURS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "RISEUP",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "WORLDWIDE",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "RAGNAROCKS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "CREATORLEGACY",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "NO1FCPRO",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "VISAKIT",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "PICKASIDE",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "UTOTSREVEAL",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "SHARDBOOST",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FORZATOTS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "PREMIERLEAGUEGEMS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "DROPTHEMIC",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "REGALOLALIGA",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "VAMOSLALIGA",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "PRESENTEDALIVE",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "EVOLUTIONS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "REDHEARTS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "HOLIDAYCHEER",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "FCPROFEST",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "GRANDEFINAL",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "CEMPASUCHILYVELAS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "100KSEGUIDORESIG",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "CLUBHOUSEVIP",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "AFICIONADO",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "KNOCKOUTS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "MIDSEASON",
+    "reward": "1,000x Gems, 100x Rank Up Points",
+    "source": "GamesRadar+",
+    "sources": [
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-09-28T18:44:03.376899+00:00",
+    "status": "expired",
+    "expiredAt": "2026-09-28T18:44:03.376899+00:00",
+    "expiredSources": [
+      "GamesRadar+"
+    ]
+  }
+]
