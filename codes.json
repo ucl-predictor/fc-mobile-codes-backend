@@ -2,23 +2,21 @@
   {
     "code": "ZLATANWORLDPREMIERE",
     "reward": "a Zlatan Ibrahimovic card",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
-    "lastSeenAt": "2026-09-30T02:23:21.377343+00:00",
+    "lastSeenAt": "2026-09-30T08:45:35.187458+00:00",
     "status": "active"
   },
   {
     "code": "ONEMOREDRAFT",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
@@ -26,17 +24,15 @@
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ]
   },
   {
     "code": "BOMBAGOL",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
@@ -44,7 +40,6 @@
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ]
   },
@@ -67,10 +62,9 @@
   {
     "code": "NUMEROUNO",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
@@ -78,17 +72,15 @@
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ]
   },
   {
     "code": "CLEANSLATE",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
@@ -96,17 +88,15 @@
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ]
   },
   {
     "code": "POWEROFFOOTBALL",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
@@ -114,17 +104,15 @@
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ]
   },
   {
     "code": "MIDSEASONFINALDAY",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
@@ -132,17 +120,15 @@
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ]
   },
   {
     "code": "FCPROMOBILE",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
@@ -150,33 +136,29 @@
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ]
   },
   {
     "code": "CHAMPIONSGO",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "MIDSEASONGOODPLAY",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
@@ -184,17 +166,15 @@
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ]
   },
   {
     "code": "MIDSEASONKICKOFF",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "source": "Pocket Tactics, GamesRadar+",
     "sources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
@@ -202,280 +182,245 @@
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
       "Pocket Tactics",
-      "Radio Times",
       "GamesRadar+"
     ]
   },
   {
     "code": "CHAMPSWEEKEND",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "ALLSTARSLIVE",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "ALLSTARSCOMPETE",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "GOLDENERA",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "FIESTAMX",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "CHASETHEGLORY",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "LAFINAL",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "NATIONALPRIDE",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "HIGHERSTAKES",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "DOMINOSFC",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "PRESSUREISON",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "STARSANDSTRIPES",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "LASTROUND",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "WEEKENDHYPE",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "BIGGAMEDAY",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "DEBUTGIFT",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "FIRSTWHISTLE",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -509,17 +454,15 @@
   {
     "code": "WEEKENDBOOST",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -539,17 +482,15 @@
   {
     "code": "SHARDSAREBACK",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -569,17 +510,15 @@
   {
     "code": "TOTSISBACK",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -599,17 +538,15 @@
   {
     "code": "EIDMUBARAK26",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -629,17 +566,15 @@
   {
     "code": "CHASETHEDREAM",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -659,33 +594,29 @@
   {
     "code": "CAPPEDANTWAN",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "RAMADANKAREEM26",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -705,65 +636,57 @@
   {
     "code": "CARNAVALGINGA",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "UTOTYTRADEIN",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "ITSTHETOTYS",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "FELICESREYES",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -797,17 +720,15 @@
   {
     "code": "MOSTWONDERFULTIME",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -827,33 +748,29 @@
   {
     "code": "MLSCUP25",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
     "code": "CYBERWEEK25",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -873,17 +790,15 @@
   {
     "code": "BLACKFRIDAY25",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -903,17 +818,15 @@
   {
     "code": "GLORIOUSCODE",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -947,17 +860,15 @@
   {
     "code": "SPOOKYGIFT",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -977,17 +888,15 @@
   {
     "code": "BRIGHTLIGHTS",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -1007,17 +916,15 @@
   {
     "code": "CADEAUDOR",
     "reward": "",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Pocket Tactics",
-      "Radio Times"
+      "Pocket Tactics"
     ]
   },
   {
@@ -1036,17 +943,15 @@
   },
   {
     "code": "MIDSEASONBANGKOK",
-    "reward": "",
-    "source": "Radio Times, GamesRadar+",
+    "reward": "1,000x Gems, 100x Rank Up Points",
+    "source": "GamesRadar+",
     "sources": [
-      "Radio Times",
       "GamesRadar+"
     ],
     "foundAt": "2026-09-28T18:44:03.376899+00:00",
     "status": "expired",
     "expiredAt": "2026-09-28T18:44:03.376899+00:00",
     "expiredSources": [
-      "Radio Times",
       "GamesRadar+"
     ]
   },
