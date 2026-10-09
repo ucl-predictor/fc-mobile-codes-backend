@@ -2,24 +2,33 @@
   {
     "code": "3RDANNIVERSARY",
     "reward": "one draft voucher and 100 tokens",
-    "source": "Pocket Tactics",
+    "source": "Pocket Tactics, Radio Times",
     "sources": [
-      "Pocket Tactics"
+      "Pocket Tactics",
+      "Radio Times"
     ],
     "foundAt": "2026-10-05T15:00:59.585392+00:00",
-    "lastSeenAt": "2026-10-09T06:42:51.433512+00:00",
+    "lastSeenAt": "2026-10-09T13:46:14.572836+00:00",
     "status": "active"
   },
   {
     "code": "27UPDATE",
-    "reward": "100x Rank Up Points, 1x FC Draft Voucher",
-    "source": "Radio Times",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
     "sources": [
-      "Radio Times"
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
     ],
     "foundAt": "2026-10-01T16:23:23.731301+00:00",
     "lastSeenAt": "2026-10-09T06:42:51.433512+00:00",
-    "status": "active"
+    "status": "expired",
+    "expiredAt": "2026-10-09T13:46:14.572836+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
   },
   {
     "code": "ZLATANWORLDPREMIERE",
