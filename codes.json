@@ -1,15 +1,39 @@
 [
   {
-    "code": "3RDANNIVERSARY",
-    "reward": "one draft voucher and 100 tokens",
-    "source": "Pocket Tactics, Radio Times",
+    "code": "MULLERTIME",
+    "reward": "free rewars",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-10-12T16:59:11.779132+00:00",
+    "lastSeenAt": "2026-10-12T16:59:11.779132+00:00",
+    "status": "active"
+  },
+  {
+    "code": "3RDANNIVERSARY",
+    "reward": "100x Rank Up Points, 1x FC Draft Voucher",
+    "source": "Radio Times",
+    "sources": [
       "Radio Times"
     ],
     "foundAt": "2026-10-05T15:00:59.585392+00:00",
-    "lastSeenAt": "2026-10-12T07:30:24.180167+00:00",
+    "lastSeenAt": "2026-10-12T16:59:11.779132+00:00",
     "status": "active"
+  },
+  {
+    "code": "GARUDAJUARA",
+    "reward": "",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-10-12T16:59:11.779132+00:00",
+    "status": "expired",
+    "expiredAt": "2026-10-12T16:59:11.779132+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
   },
   {
     "code": "27UPDATE",
