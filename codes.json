@@ -7,30 +7,42 @@
       "Pocket Tactics"
     ],
     "foundAt": "2026-10-12T16:59:11.779132+00:00",
-    "lastSeenAt": "2026-10-14T06:16:48.706794+00:00",
+    "lastSeenAt": "2026-10-14T12:09:36.823373+00:00",
     "status": "active"
   },
   {
     "code": "GARUDAJUARA",
-    "reward": "2k Gems",
-    "source": "Radio Times",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
     "sources": [
+      "Pocket Tactics",
       "Radio Times"
     ],
     "foundAt": "2026-10-12T16:59:11.779132+00:00",
-    "status": "active",
-    "lastSeenAt": "2026-10-14T06:16:48.706794+00:00"
+    "status": "expired",
+    "lastSeenAt": "2026-10-14T06:16:48.706794+00:00",
+    "expiredAt": "2026-10-14T12:09:36.823373+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
   },
   {
     "code": "3RDANNIVERSARY",
-    "reward": "100x Rank Up Points, 1x FC Draft Voucher",
-    "source": "Radio Times",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
     "sources": [
+      "Pocket Tactics",
       "Radio Times"
     ],
     "foundAt": "2026-10-05T15:00:59.585392+00:00",
     "lastSeenAt": "2026-10-14T06:16:48.706794+00:00",
-    "status": "active"
+    "status": "expired",
+    "expiredAt": "2026-10-14T12:09:36.823373+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
   },
   {
     "code": "27UPDATE",
