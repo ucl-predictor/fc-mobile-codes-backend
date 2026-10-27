@@ -1,5 +1,27 @@
 [
   {
+    "code": "BALLONDOR70",
+    "reward": "1x 119–121 OVR Ballon d'Or Player",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-10-27T11:00:16.544714+00:00",
+    "lastSeenAt": "2026-10-27T11:00:16.544714+00:00",
+    "status": "active"
+  },
+  {
+    "code": "FCMIDBALLONDOR",
+    "reward": "2k Gems",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-10-27T11:00:16.544714+00:00",
+    "lastSeenAt": "2026-10-27T11:00:16.544714+00:00",
+    "status": "active"
+  },
+  {
     "code": "ELTRAFICO",
     "reward": "1x 116-118 MLS Player",
     "source": "Radio Times",
@@ -7,7 +29,7 @@
       "Radio Times"
     ],
     "foundAt": "2026-10-26T11:01:06.546331+00:00",
-    "lastSeenAt": "2026-10-27T05:44:47.330696+00:00",
+    "lastSeenAt": "2026-10-27T11:00:16.544714+00:00",
     "status": "active"
   },
   {
@@ -18,29 +40,7 @@
       "Radio Times"
     ],
     "foundAt": "2026-10-26T11:01:06.546331+00:00",
-    "lastSeenAt": "2026-10-27T05:44:47.330696+00:00",
-    "status": "active"
-  },
-  {
-    "code": "FCPRODAY2LETSGO",
-    "reward": "3k Gems, 1x World Championship Cup Ticket",
-    "source": "Radio Times",
-    "sources": [
-      "Radio Times"
-    ],
-    "foundAt": "2026-10-26T11:01:06.546331+00:00",
-    "lastSeenAt": "2026-10-27T05:44:47.330696+00:00",
-    "status": "active"
-  },
-  {
-    "code": "WHOWINS",
-    "reward": "1x Draft Voucher, 100x Rank Up Points",
-    "source": "Radio Times",
-    "sources": [
-      "Radio Times"
-    ],
-    "foundAt": "2026-10-26T11:01:06.546331+00:00",
-    "lastSeenAt": "2026-10-27T05:44:47.330696+00:00",
+    "lastSeenAt": "2026-10-27T11:00:16.544714+00:00",
     "status": "active"
   },
   {
@@ -51,7 +51,7 @@
       "Pocket Tactics"
     ],
     "foundAt": "2026-10-20T16:55:51.933518+00:00",
-    "lastSeenAt": "2026-10-27T05:44:47.330696+00:00",
+    "lastSeenAt": "2026-10-27T11:00:16.544714+00:00",
     "status": "active"
   },
   {
@@ -62,8 +62,38 @@
       "Pocket Tactics"
     ],
     "foundAt": "2026-10-12T16:59:11.779132+00:00",
-    "lastSeenAt": "2026-10-27T05:44:47.330696+00:00",
+    "lastSeenAt": "2026-10-27T11:00:16.544714+00:00",
     "status": "active"
+  },
+  {
+    "code": "FCPRODAY2LETSGO",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-10-26T11:01:06.546331+00:00",
+    "lastSeenAt": "2026-10-27T05:44:47.330696+00:00",
+    "status": "expired",
+    "expiredAt": "2026-10-27T11:00:16.544714+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "WHOWINS",
+    "reward": "",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-10-26T11:01:06.546331+00:00",
+    "lastSeenAt": "2026-10-27T05:44:47.330696+00:00",
+    "status": "expired",
+    "expiredAt": "2026-10-27T11:00:16.544714+00:00",
+    "expiredSources": [
+      "Radio Times"
+    ]
   },
   {
     "code": "GARUDAJUARA",
