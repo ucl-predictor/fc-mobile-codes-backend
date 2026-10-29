@@ -1,5 +1,16 @@
 [
   {
+    "code": "HEATWAVE",
+    "reward": "1x 116–118 OVR MLS Player",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-10-29T14:30:13.131998+00:00",
+    "lastSeenAt": "2026-10-29T14:30:13.131998+00:00",
+    "status": "active"
+  },
+  {
     "code": "BALLONDOR70",
     "reward": "1x 119–121 OVR Ballon d'Or Player",
     "source": "Radio Times",
@@ -7,7 +18,7 @@
       "Radio Times"
     ],
     "foundAt": "2026-10-27T11:00:16.544714+00:00",
-    "lastSeenAt": "2026-10-29T07:16:13.146688+00:00",
+    "lastSeenAt": "2026-10-29T14:30:13.131998+00:00",
     "status": "active"
   },
   {
@@ -19,7 +30,7 @@
       "Radio Times"
     ],
     "foundAt": "2026-10-27T11:00:16.544714+00:00",
-    "lastSeenAt": "2026-10-29T07:16:13.146688+00:00",
+    "lastSeenAt": "2026-10-29T14:30:13.131998+00:00",
     "status": "active"
   },
   {
@@ -31,7 +42,7 @@
       "Radio Times"
     ],
     "foundAt": "2026-10-26T11:01:06.546331+00:00",
-    "lastSeenAt": "2026-10-29T07:16:13.146688+00:00",
+    "lastSeenAt": "2026-10-29T14:30:13.131998+00:00",
     "status": "active"
   },
   {
@@ -42,7 +53,7 @@
       "Radio Times"
     ],
     "foundAt": "2026-10-26T11:01:06.546331+00:00",
-    "lastSeenAt": "2026-10-29T07:16:13.146688+00:00",
+    "lastSeenAt": "2026-10-29T14:30:13.131998+00:00",
     "status": "active"
   },
   {
