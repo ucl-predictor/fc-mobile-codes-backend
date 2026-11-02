@@ -1,60 +1,51 @@
 [
   {
+    "code": "COSTUMEPARTY",
+    "reward": "1,000 Gems, 1x Festive Draft Voucher",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-11-02T18:21:42.920421+00:00",
+    "lastSeenAt": "2026-11-02T18:21:42.920421+00:00",
+    "status": "active"
+  },
+  {
+    "code": "FCMIDBALLONDOR",
+    "reward": "2k gems",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-10-27T11:00:16.544714+00:00",
+    "lastSeenAt": "2026-11-02T18:21:42.920421+00:00",
+    "status": "active"
+  },
+  {
+    "code": "ELTRAFICO",
+    "reward": "free reward",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-10-26T11:01:06.546331+00:00",
+    "lastSeenAt": "2026-11-02T18:21:42.920421+00:00",
+    "status": "active"
+  },
+  {
     "code": "HEATWAVE",
-    "reward": "1x 116–118 OVR MLS Player",
+    "reward": "",
     "source": "Radio Times",
     "sources": [
       "Radio Times"
     ],
     "foundAt": "2026-10-29T14:30:13.131998+00:00",
     "lastSeenAt": "2026-11-02T08:14:58.682114+00:00",
-    "status": "active"
-  },
-  {
-    "code": "BALLONDOR70",
-    "reward": "1x 119–121 OVR Ballon d'Or Player",
-    "source": "Radio Times",
-    "sources": [
+    "status": "expired",
+    "expiredAt": "2026-11-02T18:21:42.920421+00:00",
+    "expiredSources": [
       "Radio Times"
-    ],
-    "foundAt": "2026-10-27T11:00:16.544714+00:00",
-    "lastSeenAt": "2026-11-02T08:14:58.682114+00:00",
-    "status": "active"
-  },
-  {
-    "code": "FCMIDBALLONDOR",
-    "reward": "2k gems",
-    "source": "Pocket Tactics, Radio Times",
-    "sources": [
-      "Pocket Tactics",
-      "Radio Times"
-    ],
-    "foundAt": "2026-10-27T11:00:16.544714+00:00",
-    "lastSeenAt": "2026-11-02T08:14:58.682114+00:00",
-    "status": "active"
-  },
-  {
-    "code": "ELTRAFICO",
-    "reward": "free reward",
-    "source": "Pocket Tactics, Radio Times",
-    "sources": [
-      "Pocket Tactics",
-      "Radio Times"
-    ],
-    "foundAt": "2026-10-26T11:01:06.546331+00:00",
-    "lastSeenAt": "2026-11-02T08:14:58.682114+00:00",
-    "status": "active"
-  },
-  {
-    "code": "WORLDCHAMPIONSHIP26",
-    "reward": "1x Draft Voucher, 100x Rank Up Points",
-    "source": "Radio Times",
-    "sources": [
-      "Radio Times"
-    ],
-    "foundAt": "2026-10-26T11:01:06.546331+00:00",
-    "lastSeenAt": "2026-11-02T08:14:58.682114+00:00",
-    "status": "active"
+    ]
   },
   {
     "code": "FCPROTOP8TODAY",
@@ -96,6 +87,40 @@
     "expiredAt": "2026-10-28T17:21:11.360746+00:00",
     "expiredSources": [
       "Pocket Tactics"
+    ]
+  },
+  {
+    "code": "BALLONDOR70",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-10-27T11:00:16.544714+00:00",
+    "lastSeenAt": "2026-11-02T08:14:58.682114+00:00",
+    "status": "expired",
+    "expiredAt": "2026-11-02T18:21:42.920421+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ]
+  },
+  {
+    "code": "WORLDCHAMPIONSHIP26",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times"
+    ],
+    "foundAt": "2026-10-26T11:01:06.546331+00:00",
+    "lastSeenAt": "2026-11-02T08:14:58.682114+00:00",
+    "status": "expired",
+    "expiredAt": "2026-11-02T18:21:42.920421+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times"
     ]
   },
   {
