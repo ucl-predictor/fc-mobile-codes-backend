@@ -1,36 +1,24 @@
 [
   {
-    "code": "COSTUMEPARTY",
+    "code": "AUTUMNCRUNCH",
     "reward": "free rewards",
-    "source": "Pocket Tactics, Radio Times",
+    "source": "Pocket Tactics",
     "sources": [
-      "Pocket Tactics",
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-11-13T15:44:12.327539+00:00",
+    "lastSeenAt": "2026-11-13T15:44:12.327539+00:00",
+    "status": "active"
+  },
+  {
+    "code": "COSTUMEPARTY",
+    "reward": "1,000 Gems, 1x Festive Draft Voucher",
+    "source": "Radio Times",
+    "sources": [
       "Radio Times"
     ],
     "foundAt": "2026-11-02T18:21:42.920421+00:00",
-    "lastSeenAt": "2026-11-13T07:55:15.549628+00:00",
-    "status": "active"
-  },
-  {
-    "code": "FCMIDBALLONDOR",
-    "reward": "2k gems",
-    "source": "Pocket Tactics",
-    "sources": [
-      "Pocket Tactics"
-    ],
-    "foundAt": "2026-10-27T11:00:16.544714+00:00",
-    "lastSeenAt": "2026-11-13T07:55:15.549628+00:00",
-    "status": "active"
-  },
-  {
-    "code": "ELTRAFICO",
-    "reward": "free reward",
-    "source": "Pocket Tactics",
-    "sources": [
-      "Pocket Tactics"
-    ],
-    "foundAt": "2026-10-26T11:01:06.546331+00:00",
-    "lastSeenAt": "2026-11-13T07:55:15.549628+00:00",
+    "lastSeenAt": "2026-11-13T15:44:12.327539+00:00",
     "status": "active"
   },
   {
@@ -99,6 +87,25 @@
     ]
   },
   {
+    "code": "FCMIDBALLONDOR",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-10-27T11:00:16.544714+00:00",
+    "lastSeenAt": "2026-11-13T07:55:15.549628+00:00",
+    "status": "expired",
+    "expiredAt": "2026-11-13T15:44:12.327539+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
     "code": "BALLONDOR70",
     "reward": "",
     "source": "Pocket Tactics, Radio Times, GamesRadar+",
@@ -111,6 +118,25 @@
     "lastSeenAt": "2026-11-02T08:14:58.682114+00:00",
     "status": "expired",
     "expiredAt": "2026-11-02T18:21:42.920421+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
+  },
+  {
+    "code": "ELTRAFICO",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
+    "sources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ],
+    "foundAt": "2026-10-26T11:01:06.546331+00:00",
+    "lastSeenAt": "2026-11-13T07:55:15.549628+00:00",
+    "status": "expired",
+    "expiredAt": "2026-11-13T15:44:12.327539+00:00",
     "expiredSources": [
       "Pocket Tactics",
       "Radio Times",
