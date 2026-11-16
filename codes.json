@@ -7,19 +7,27 @@
       "Pocket Tactics"
     ],
     "foundAt": "2026-11-13T15:44:12.327539+00:00",
-    "lastSeenAt": "2026-11-16T07:55:42.729390+00:00",
+    "lastSeenAt": "2026-11-16T17:37:08.727228+00:00",
     "status": "active"
   },
   {
     "code": "COSTUMEPARTY",
-    "reward": "1,000 Gems, 1x Festive Draft Voucher",
-    "source": "Radio Times",
+    "reward": "",
+    "source": "Pocket Tactics, Radio Times, GamesRadar+",
     "sources": [
-      "Radio Times"
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
     ],
     "foundAt": "2026-11-02T18:21:42.920421+00:00",
     "lastSeenAt": "2026-11-16T07:55:42.729390+00:00",
-    "status": "active"
+    "status": "expired",
+    "expiredAt": "2026-11-16T17:37:08.727228+00:00",
+    "expiredSources": [
+      "Pocket Tactics",
+      "Radio Times",
+      "GamesRadar+"
+    ]
   },
   {
     "code": "HEATWAVE",
