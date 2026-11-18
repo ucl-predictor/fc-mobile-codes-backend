@@ -1,14 +1,29 @@
 [
   {
+    "code": "CHOOSEYOURSIDE",
+    "reward": "one draft voucher and 100 RUP",
+    "source": "Pocket Tactics",
+    "sources": [
+      "Pocket Tactics"
+    ],
+    "foundAt": "2026-11-18T17:26:28.147640+00:00",
+    "lastSeenAt": "2026-11-18T17:26:28.147640+00:00",
+    "status": "active"
+  },
+  {
     "code": "AUTUMNCRUNCH",
-    "reward": "free rewards",
+    "reward": "",
     "source": "Pocket Tactics",
     "sources": [
       "Pocket Tactics"
     ],
     "foundAt": "2026-11-13T15:44:12.327539+00:00",
     "lastSeenAt": "2026-11-18T08:29:19.456926+00:00",
-    "status": "active"
+    "status": "expired",
+    "expiredAt": "2026-11-18T17:26:28.147640+00:00",
+    "expiredSources": [
+      "Pocket Tactics"
+    ]
   },
   {
     "code": "COSTUMEPARTY",
