@@ -1,5 +1,16 @@
 [
   {
+    "code": "FRIDAYFRENZY",
+    "reward": "1x 118–120 OVR Rivals Pack",
+    "source": "Radio Times",
+    "sources": [
+      "Radio Times"
+    ],
+    "foundAt": "2026-11-27T11:29:32.581239+00:00",
+    "lastSeenAt": "2026-11-27T11:29:32.581239+00:00",
+    "status": "active"
+  },
+  {
     "code": "FOOTBALLFEAST",
     "reward": "one draft voucher",
     "source": "Pocket Tactics",
@@ -7,7 +18,7 @@
       "Pocket Tactics"
     ],
     "foundAt": "2026-11-26T20:07:27.419957+00:00",
-    "lastSeenAt": "2026-11-27T02:48:12.584625+00:00",
+    "lastSeenAt": "2026-11-27T11:29:32.581239+00:00",
     "status": "active"
   },
   {
@@ -19,7 +30,7 @@
       "Radio Times"
     ],
     "foundAt": "2026-11-24T16:21:51.626118+00:00",
-    "lastSeenAt": "2026-11-27T02:48:12.584625+00:00",
+    "lastSeenAt": "2026-11-27T11:29:32.581239+00:00",
     "status": "active"
   },
   {
@@ -30,7 +41,7 @@
       "Radio Times"
     ],
     "foundAt": "2026-11-18T17:26:28.147640+00:00",
-    "lastSeenAt": "2026-11-27T02:48:12.584625+00:00",
+    "lastSeenAt": "2026-11-27T11:29:32.581239+00:00",
     "status": "active"
   },
   {
